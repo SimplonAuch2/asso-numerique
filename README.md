@@ -6,7 +6,7 @@ L'entrée est gratuite, toutefois il est important de pouvoir récupérer à l'e
 - Ou avez-vous entendu parler de cet événement ?
 
 A la sortie de l'événement, le même programme sera utilisé pour proposer un questionnaire de satisfaction (proposer des réponses pré-établies, en laissant toutefois la possibilité aux personnes de s'exprimer sur champ libre quand c'est nécessaire) :
-- Quels stands avez-vous le plus apprécié ?
+- Quels stands, ateliers ou présentations avez-vous le plus apprécié ?
 - Souhaitez-vous être recontacté prochainement ? (prévoir de demander des dates et heures de disponibilités)
 - Quelles sont vos attentes vis-à-vis de notre structure ?
 
@@ -25,10 +25,12 @@ Vous devez concevoir et réaliser l'application web qui permettra de remplir ces
 
 ### Attendus
 
-- **Conception :** Réalisez un dossier technique (un seul document) contenant :
+- **Conception :** Réalisez un dossier technique (un seul document, à présentation soignée) contenant :
+  - la restitution du projet (vous reformulez le besoin dans une rapide introduction)
   - les maquettes
   - un diagramme d'état, représentant le cheminement de l'internaute sur la plateforme
-  - les cas d'utilisation contenant à minima les rôles d'internaute et d'administrateur
+  - les cas d'utilisation contenant à minima les rôles visiteur et administrateur
+  - le diagramme des classes
   - le modèle Conceptuel des Données
 
 - **Réalisation :** Développez une application web :
