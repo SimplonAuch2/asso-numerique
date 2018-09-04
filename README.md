@@ -1,22 +1,50 @@
-L'idée est de concevoir et développer un formulaire qui permette aux visiteurs de recenser les incivilités qui peuvent avoir été constatées dans la vie de tous les jours. Incivilités ? Mais de quoi on parle ? Brainstorming ! Faites des propositions !
+L'association "Tous au Numérique" s'installe à Auch et s'apprête à organiser son tout premier événement dédié aux technologies numériques. A cette occasion, il est prévu d'ouvrir les locaux à tous (entreprises, particuliers, institutions...) sans restriction.
+
+L'entrée est gratuite, toutefois il est important de pouvoir récupérer à l'entrée l'identité et les coordonnées des individus qui viendront à cet événement afin d'identifier de possibles partenaires et de cartographier le territoire. Les informations souhaitées sont notamment :
+- identité de la personne
+- entreprise / poste
+- Ou avez-vous entendu parler de cet événement ?
+
+A la sortie de l'événement, le même programme sera utilisé pour proposer un questionnaire de satisfaction (proposer des réponses pré-établies, en laissant toutefois la possibilité aux personnes de s'exprimer sur champ libre quand c'est nécessaire) :
+- Quels stands avez-vous le plus apprécié ?
+- Souhaitez-vous être recontacté prochainement ? (prévoir de demander des dates et heures de disponibilités)
+- Quelles sont vos attentes vis-à-vis de notre structure ?
+
+Il faut en outre prévoir de mettre à disposition des statistiques concernant les entreprises et lieux les plus représentés, les pics de visites dans la journée
+
+Vous devez concevoir et réaliser l'application web qui permettra de remplir ces besoins.
+
 
 ### Contraintes
 
-- Le programme doit fonctionner sur un environnement LAMP (Linux, Apache2, MariaDB/MySQL et PHP)
-- La présentation doit être pro et responsive (frameworks CSS autorisés)
-- Que se passe-t-il si les données saisies sont incorrectes ?
-- Comme d'habitude, versionnez votre projet
+- le programme doit fonctionner sur un environnement LAMP (Linux, Apache2, MariaDB/MySQL et PHP7)
+- frameworks CSS autorisés
+- Javascript autorisé (sera requis au moins pour contrôler les champs côté client)
+- AJAX autorisé
+
 
 ### Attendus
 
-- Proposer et faire valider les maquettes au client (les formateurs mettrons un super déguisement de client pour l'occasion)
-- Présentez les cas d'utilisation contenant à minima les rôles d'internaute et d'administrateur
-- Présenter un diagramme d'état, représentant le cheminement de l'internaute sur la plateforme
-- Créez le site contenant le formulaire en pur HTML et PHP
-- Réalisez une variante avec l'enregistrement des données via une requête AJAX
+- **Conception :** Réalisez un dossier technique (un seul document) contenant :
+  - les maquettes
+  - un diagramme d'état, représentant le cheminement de l'internaute sur la plateforme
+  - les cas d'utilisation contenant à minima les rôles d'internaute et d'administrateur
+  - le modèle Conceptuel des Données
 
-### Objectifs
+- **Réalisation :** Développez une application web :
+  - interdiction de coder de façon scripturale (fonctions et objets obligatoires pour l'ensemble du code)
+  - la présentation doit être pro et adaptée à tous les périphériques
+  - contrôle systématique des données saisies dans les formulaires
+  - le projet doit être versionné
 
-- Appréhender le client/serveur
-- Réaliser un projet mixant du code client et du code serveur
-- Introduire les bases de données
+- **Conventions du projet :**
+  - commentaires en anglais obligatoires avant chaque méthode, balisés par /* et */
+  - nommage de l'ensemble des variables, classes, propriétés, méthodes... en anglais uniquement
+  - les variables doivent être écrites en minuscules
+
+
+
+
+
+
+
