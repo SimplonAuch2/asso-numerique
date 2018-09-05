@@ -5,7 +5,7 @@ L'entrée est gratuite, toutefois il est important de pouvoir récupérer à l'e
 - entreprise / poste
 - Ou avez-vous entendu parler de cet événement ?
 
-A la sortie de l'événement, le même programme sera utilisé pour proposer un questionnaire de satisfaction (proposer des réponses pré-établies, en laissant toutefois la possibilité aux personnes de s'exprimer sur champ libre quand c'est nécessaire) :
+A la sortie de l'événement, le même programme sera utilisé pour proposer un questionnaire de satisfaction. Les réponses peuvent être anonymisées, mais il faut prévoir d'enregistrer l'heure de saisie afin d'être en capacité de sortir des statistiques sur les flux entrants et sortants de l'événement. Proposer des réponses pré-établies, en laissant toutefois la possibilité aux personnes de s'exprimer sur champ libre quand c'est nécessaire :
 - Quels stands, ateliers ou présentations avez-vous le plus apprécié ?
 - Souhaitez-vous être recontacté prochainement ? (prévoir de demander des dates et heures de disponibilités)
 - Quelles sont vos attentes vis-à-vis de notre structure ?
@@ -41,8 +41,10 @@ Vous devez concevoir et réaliser l'application web qui permettra de remplir ces
 
 - **Conventions du projet :**
   - commentaires en anglais obligatoires avant chaque méthode, balisés par /* et */
+    spécifiez-y les paramètres attendus et type de valeurs retournées
   - nommage de l'ensemble des variables, classes, propriétés, méthodes... en anglais uniquement
   - les variables doivent être écrites en minuscules
+
 
 
 
