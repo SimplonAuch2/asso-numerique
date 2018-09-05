@@ -1,3 +1,6 @@
+
+# Tous au numérique !
+
 L'association "Tous au Numérique" s'installe à Auch et s'apprête à organiser son tout premier événement dédié aux technologies numériques. A cette occasion, il est prévu d'ouvrir les locaux à tous (entreprises, particuliers, institutions...) sans restriction.
 
 L'entrée est gratuite, toutefois il est important de pouvoir récupérer à l'entrée l'identité et les coordonnées des individus qui viendront à cet événement afin d'identifier de possibles partenaires et de cartographier le territoire. Les informations souhaitées sont notamment :
